@@ -4,3 +4,10 @@ pandas
 seaborn
 matplotlib
 jupyter
+statsmodels
+scikit-learn
+# Remove any lines like "pip install" from requirements.txt.
+# Only package names and versions should be listed here.
+# To install, run this in your terminal (not in requirements.txt):
+# pip install -r requirements.txt
+
